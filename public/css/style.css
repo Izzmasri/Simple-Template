@@ -1,0 +1,176 @@
+.ulNav-0{
+    list-style-type: none;
+    padding-top: 25px;
+    padding-left: 10px;
+
+
+}
+.ulNav-1{
+    list-style-type: none;
+    padding-top: 25px;
+    padding-left: 130px;
+
+
+}
+a{
+    text-decoration: none;
+    font-size: 14px;
+    color: black;
+}
+li{
+    float: left;
+
+
+}
+.liNav-0{
+    padding-left: 15px;
+
+}
+.liNav-1{
+    padding-left: 55px;
+}
+.liNav-1 a {
+    display: flex;
+
+}
+.liNav-1 a span {
+    margin-left: 10px;
+}
+.div-0{
+    margin-left: 37px;
+    height: 700px;
+    background: #FAEDEB;
+    width: 50%;
+    display: inline;
+}
+.div-1{
+    height: 700px;
+    background:#FAEDEB;
+    padding-left: 0;  /* photo left and right */
+    width: 45%;
+}
+
+.img-0{
+    width:auto;
+    height: 100%;
+}
+.text-0{
+    margin-left: 140px; /* Adjust this value to move right */
+    margin-top: 200px;  /* Adjust this value to move down */
+    position: relative;
+    font-family: Arial, serif;
+}
+.text-1{
+    margin-left: 140px;
+    margin-top: 10px;
+
+}
+.textSize{
+    font-size: 55px;
+    font-family: "Arial Black", serif;
+}
+::selection{
+    background: black;
+    color: white;
+}
+.shopCollection{
+    margin-left: 140px;
+    margin-top: 20px;
+    border-radius: 0;
+    padding: 10px;
+}
+h6{
+    font-family: Arial, serif;
+}
+.text-3{
+    font-family: "Arial Black", serif ;
+}
+.div-2{
+    margin-top: 100px;
+}
+.img-1{
+    width: 100%;
+}
+.div-3{
+    padding: 60px;
+    margin-top: -20px;
+}
+.label-0{
+    font-size: 12px;
+}
+.label-1{
+    font-family: Tahoma, serif;
+
+}
+.color-swatch {
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
+.color-black {
+    background-color: black;
+}
+.color-pink {
+    background-color: #f8e1e1;
+}
+.color-white {
+    background-color: white;
+    border: 1px solid #ccc;
+}
+.selected {
+    border: 2px double black;
+}
+.size-button {
+    font-size: 11px;
+    border-radius: 2px;
+}
+.img-2{
+    width: 100%;
+}
+
+.shopNow{
+    border-radius: 0;
+    padding: 10px;
+    margin-top: 22px;
+}
+.div-5{
+    width: 94%;
+    height: 850px;
+    margin-top:140px;
+    background-image: url("../../imgs/bg-01.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.div-6{
+    padding: 340px;
+    color: white;
+}
+.shopCollection-1{
+    border-radius: 0;
+}
+.div_1{
+    background-color: #FAEDEB;
+    margin-top: 8rem;
+    width: 95%;
+    
+}
+.div_2{
+   padding-bottom: 5%;
+    padding-top: 100px;
+    justify-content: center;
+    text-align: center;
+}
+.div_3{
+    background-color: black;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+
+    
+}
